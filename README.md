@@ -3,4 +3,5 @@ Showcase of my projects and other programs
 
 ## web apps
 
-translator to glagoljica - http://transglagolic.atwebpages.com/
+telemetry - http://tlmtryprojekt.scienceontheweb.net/ - final paper/project
+translator to glagoljica - http://transglagolic.atwebpages.com/ - exercise in Vue.js
