@@ -26,7 +26,7 @@ bool loadConfig() {
     Serial.println("Failed to parse config file");
     return false;
   }
-  //==========UČITAVANJE PODATAKA IZ SPIFFSA
+  //==========LOADING DATA FROM SPIFFS
   //const char* c_wifiSSID          = json["wifi_ssid"];
   //const char* c_wifiPass          = json["wifi_pass"];
   const char* c_ntpServer         = json["ntp_server"];
